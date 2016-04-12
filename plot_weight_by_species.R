@@ -1,5 +1,6 @@
 # extracts species and weights for a given year from portal rodent 
 # database; makes a fancy plot and saves the plot to a file
+# hi
 
 library(RSQLite)
 library(ggplot2)
